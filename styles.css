@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+     background-color: lightgray;
+}
+#favFoodImage1, #favFoodImage2, #favFoodImage3{
+    height: 400px;
+    width: 500px;
+    border-style: solid;
+    border-color: white;
+}
+#Food1{
+    background-color: gold;
+}
+#Food2{
+    background-color: rgb(218, 45, 218);
+}
+#Food3{
+    background-color: rgb(37, 131, 168);
+}
+#favFood1, #favFood2, #favFood3{
+    font-style: italic;
+    color: white;
+}
+#foodDescription, #foodDescription2, #foodDescription3{
+    font-style: italic;
+    color: white;
+}
+#titleName{
+    font-style: italic;
+    position: relative;
+    top: 200px;
+    color: white;
+}
+
